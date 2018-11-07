@@ -1,0 +1,21 @@
+{
+  "name": "lambda-hotels-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.335.0",
+    "crypto-js": "^3.1.9-1",
+    "elasticsearch": "^15.1.1",
+    "http-aws-es": "^6.0.0",
+    "iplocation": "^5.0.1",
+    "joi": "^13.7.0",
+    "lodash": "^4.17.11",
+    "request": "^2.88.0"
+  }
+}
